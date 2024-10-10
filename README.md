@@ -32,7 +32,7 @@ Welcome to my repository! 🎉 This collection showcases the reports and skills 
   - Identify sales patterns and track key performance indicators (KPIs).
 
 - **📑 Role of Reports:**
-  - Determine effective customer discounts.
+  - Determine the sales performance.
   - Facilitate negotiations with consumers.
   - Identify potential business expansion opportunities in promising markets.
 

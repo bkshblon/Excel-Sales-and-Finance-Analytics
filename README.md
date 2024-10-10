@@ -6,16 +6,16 @@ Welcome to my repository! 🎉 This collection showcases the reports and skills 
 
 ## 🛠️ Table of Contents
 
-- [📈 Sales Reports]
-  - [1. Customer Performance Report]
-  - [2. Market Performance vs Sales Targets]
-- [💰 Finance Reports]
-  - [1. P&L Statement by Fiscal Year]
-  - [2. P&L Statement by Markets]
-- [🔧 Technical & Soft Skills]
-  - [Technical Skills]
-  - [Soft Skills]
-- [📫 Contact]
+- 📈 Sales Reports
+  - 1. Customer Performance Report
+  - 2. Market Performance vs Sales Targets
+- 💰 Finance Reports
+  - 1. P&L Statement by Fiscal Year
+  - 2. P&L Statement by Markets
+- 🔧 Technical & Soft Skills
+  - Technical Skills
+  - Soft Skills
+- 📫 Contact
 ---
 
 ## 📈 Sales Reports

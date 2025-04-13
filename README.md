@@ -116,8 +116,8 @@ Welcome to my repository! 🎉 This collection showcases the reports and skills 
 
 I'm always open to connecting and collaborating! Feel free to reach out via:
 
-- **LinkedIn:**LinkedIn (https://www.linkedin.com/in/bkshblon/)
-- **Email:** Bikash Tamang(bkshblon@gmail.com)
+- **LinkedIn:** [Bikash Tamang](https://www.linkedin.com/in/bkshblon/)
+- **Email:** [bkshblon@gmail.com](mailto:bkshblon@gmail.com)
 
 
 *Thank you for visiting my repository! If you have any questions or feedback, please don't hesitate to get in touch.*

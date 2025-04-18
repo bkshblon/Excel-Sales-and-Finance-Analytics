@@ -21,6 +21,7 @@ Welcome to my repository! 🎉 This collection showcases the reports and skills 
 ## 📈 Sales Reports
 
 ### 1. Customer Performance Report
+![image](https://github.com/user-attachments/assets/bd895944-5e00-4c22-9b29-8db2590d4cc5)
 
 - **📌 Project Objective:**
   - Create a [Customer Performance Report](https://github.com/bkshblon/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
@@ -37,6 +38,7 @@ Welcome to my repository! 🎉 This collection showcases the reports and skills 
   - Identify potential business expansion opportunities in promising markets.
 
 ### 2. Market Performance vs Sales Targets
+![image](https://github.com/user-attachments/assets/b6aafeaf-1131-4f3c-a282-fb5ae4318a4c)
 
 - **📌 Project Objective:**
   - Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/bkshblon/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
@@ -56,6 +58,7 @@ Welcome to my repository! 🎉 This collection showcases the reports and skills 
 ## 💰 Finance Reports
 
 ### 1. P&L Statement by Fiscal Year
+![image](https://github.com/user-attachments/assets/31a9f17c-fa5f-4d4f-aef9-86b49cd8788a)
 
 - **📌 Project Objective:**
   - Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/bkshblon/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
@@ -74,6 +77,7 @@ Welcome to my repository! 🎉 This collection showcases the reports and skills 
   - Instill confidence in the organization's financial outlook.
 
 ### 2. P&L Statement by Markets
+![image](https://github.com/user-attachments/assets/457c39b3-b9e0-4687-9471-efb8c84ef264)
 
 - **📌 Project Objective:**
   - Create Profit and Loss (P&L) reports by [Markets](https://github.com/bkshblon/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
